@@ -40,3 +40,19 @@
   This opens https://foo.com in a new window and https://bar.com in the same window and works without triggering popup blockers.
 </a>
 </div>
+
+
+
+
+
+
+# Perfect-Cube
+
+Click on the image below to visit each person's GitHub profile.
+
+[![People](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d)](https://github.com/Ark50001)
+
+- [Aakarshit](https://github.com/Ark50001)
+- [Ayush](https://github.com/Ayushverma135)
+- [Bhaskar](https://github.com/Banner-19)
+
