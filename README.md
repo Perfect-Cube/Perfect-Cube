@@ -50,7 +50,7 @@
 
 Click on the image below to visit each person's GitHub profile.
 
-[![People](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d)](https://github.com/Ark50001)
+[![People](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d)](https://github.com/ArkS0001)
 
 - [Aakarshit](https://github.com/Ark50001)
 - [Ayush](https://github.com/Ayushverma135)
