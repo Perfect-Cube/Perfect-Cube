@@ -19,5 +19,15 @@
 </map>
 
 
+[![Clickable Image]([https://example.com/image.jpg](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d))](https://github.com/ArkS0001) [![Clickable Image]([https://example.com/image.jp](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d)g)](https://github.com/Ayushverma135) [![Clickable Image]([https://example.com/image.jpg](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d))](https://github.com/Banner-19)
 
 
+
+
+
+<div>
+    <div align="center">
+        <a href="https://github.com/ArkS0001" target="_blank" onclick="window.open('https://github.com/Ayushverma135'); window.open('https://github.com/Banner-19');"><img src="https://example.com/image.jpg](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d" title="Loading..."/></a>
+        <p>Loading...</p>
+    </div>
+</div>
