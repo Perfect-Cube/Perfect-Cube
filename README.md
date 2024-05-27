@@ -62,7 +62,7 @@ Click on the image below to visit each person's GitHub profile.
 
 Click on the image below to visit each person's GitHub profile.
 
-[![People](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d)](https://perfect-cube.github.io/Perfect-Cube/index.html)
+[![People](https://github.com/Perfect-Cube/Perfect-Cube/blob/main/assets/WhatsApp%20Image%202024-05-27%20at%209.06.18%20PM.jpeg)](https://perfect-cube.github.io/Perfect-Cube/index.html)
 
 By clicking on the image, multiple tabs will open.
 
