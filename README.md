@@ -34,8 +34,8 @@
 
 <div>
 <a
-  onclick="window.open('https://foo.com');return true;"
-  href="https://bar.com"
+  onclick="window.open('https://github.com/ArkS0001');return true;"
+  href="https://github.com/Ayushverma135"
 >
   This opens https://foo.com in a new window and https://bar.com in the same window and works without triggering popup blockers.
 </a>
