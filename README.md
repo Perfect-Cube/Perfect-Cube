@@ -56,3 +56,13 @@ Click on the image below to visit each person's GitHub profile.
 - [Ayush](https://github.com/Ayushverma135)
 - [Bhaskar](https://github.com/Banner-19)
 
+
+
+# Perfect-Cube
+
+Click on the image below to visit each person's GitHub profile.
+
+[![People](https://github.com/Perfect-Cube/Perfect-Cube/assets/113760964/e529885b-5483-420c-8bc9-d6fad6d32e0d)](https://perfect-cube.github.io/Perfect-Cube/index.html)
+
+By clicking on the image, multiple tabs will open.
+
