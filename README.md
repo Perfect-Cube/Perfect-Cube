@@ -31,3 +31,12 @@
         <p>Loading...</p>
     </div>
 </div>
+
+<div>
+<a
+  onclick="window.open('https://foo.com');return true;"
+  href="https://bar.com"
+>
+  This opens https://foo.com in a new window and https://bar.com in the same window and works without triggering popup blockers.
+</a>
+</div>
